@@ -1,0 +1,21 @@
+name: 'article test'
+type: module
+core: 8.x
+dependencies:
+  - block
+  - block_visibility_groups
+  - comment
+  - ds
+  - field
+  - image
+  - language
+  - menu_ui
+  - node
+  - paragraphs
+  - path
+  - rdf
+  - reusable_forms
+  - system
+  - text
+  - user
+  - views

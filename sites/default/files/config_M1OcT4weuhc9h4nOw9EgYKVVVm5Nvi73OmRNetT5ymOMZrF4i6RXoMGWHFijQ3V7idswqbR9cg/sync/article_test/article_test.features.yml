@@ -1,0 +1,6 @@
+excluded:
+  - block.block.ive_views_block__contenus_par_utilisateurs_block_1
+  - block.block.mybootstrap_views_block__contenus_par_utilisateurs_block_1
+  - block.block.views_block__contenus_par_utilisateurs_block_1
+  - paragraphs.paragraphs_type.paragraphe_video_
+required: true
